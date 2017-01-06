@@ -1,4 +1,4 @@
-# Clear-Trip-Clone
+# Clear Trip Clone
 <i>Best Clear Trip Clone Script</i>
 
 The popular ready-made clone site for you with Bus bookings, Flight bookings, Hotel bookings, CRS hotels, Holiday packages etc. User-friendly payment, reservation and event management at ease. An added key future is that you can add/delete/change descriptions and as well transfer images/photos. Through our clone script, you can manage reservations, customer’s knowledge and accessibility, schedule routes, set accessibility, transfer an interactive seat map and let reserved users choose their seats/rooms/packages.
